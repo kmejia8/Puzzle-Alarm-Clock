@@ -1,9 +1,11 @@
 # Puzzle Alarm Clock
 
+![Circuit](circuit.jpg)
+
 A Raspberry Pi project that functions as a puzzle-based alarm clock.  
 To silence the alarm, the user must solve a randomly generated math equation displayed on a 16x2 I²C LCD.  
 Input is entered through a 4x4 matrix keypad, while LEDs and a buzzer act as the alarm system.  
-Incorrect attempts increase the buzzer’s intensity until the correct answer is provided.
+Incorrect attempts increase the buzzer’s intensity until the correct answer is provided. [Watch the demo video!](https://www.linkedin.com/posts/kmejia8_raspberrypi-gmu-coding-ugcPost-7323778073915514880-PnIz?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEmpGjoB85BV-gSU9gzEFSoj5zF76vjq-20)
 
 ---
 
